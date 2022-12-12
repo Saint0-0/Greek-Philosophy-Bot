@@ -17,7 +17,7 @@ This script allows for the incorporation of philosophical musings from renowned 
 ### Loadstring
 Run this in your executor to load the script
  ```lua
-  prefix = "." --// One Char Only
+  local Prefix = "." --// One Char Only
   
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Saint0-0/Greek-Philosophy-Bot/main/Main.lua"))()
   ```
