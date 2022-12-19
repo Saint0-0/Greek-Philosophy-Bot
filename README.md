@@ -1,6 +1,6 @@
 ## Greek Philosophy.
 
-#NOTE: This script won't work due to errors in the obfuscation process. Fixing...
+# NOTE: This script won't work due to errors in the obfuscation process. Fixing...
 
 Greek philosophy is like trying to figure out the meaning of life and how we should live it using our brains, not just blindly following what other people tell us. It's a deep and complex topic, but it's also super interesting and can help us to think more critically and creatively.
 
