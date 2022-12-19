@@ -1,16 +1,11 @@
 ## Greek Philosophy.
 
+#NOTE: This script won't work due to errors in the obfuscation process. Fixing...
+
 Greek philosophy is like trying to figure out the meaning of life and how we should live it using our brains, not just blindly following what other people tell us. It's a deep and complex topic, but it's also super interesting and can help us to think more critically and creatively.
 
 This script allows for the incorporation of philosophical musings from renowned thinkers into your Robloxian discourse.
 
-### Preview.
-
-![alt text](https://cdn.discordapp.com/attachments/1051810839792992317/1051811833822052352/image.png)
-![alt text](https://cdn.discordapp.com/attachments/1051810839792992317/1051811834316988476/image.png)
-![alt text](https://cdn.discordapp.com/attachments/1051810839792992317/1051811834631557172/image.png)
-![alt text](https://cdn.discordapp.com/attachments/1051810839792992317/1051811834992263198/image.png)
-![alt text](https://cdn.discordapp.com/attachments/1051810839792992317/1051811835327815730/image.png)
 
 ## Using the script.
 
